@@ -1,6 +1,6 @@
-# NSAG M14 — Measurement & Evaluation
+# NSAG M14 — Space Governance and Interplanetary Jurisdiction
 
-Retired NSAG prototype module covering Measurement & Evaluation.
+Retired standalone deployment of NSAG module M14, Space Governance and Interplanetary Jurisdiction (Space & Extreme Environments). The module's canonical page is https://nsag-site.vercel.app/m14.
 
 **Live:** https://nsag-m14.vercel.app
 
@@ -10,7 +10,7 @@ This prototype has been retired. The deployment remains online as a record; it i
 
 ## Repository contents
 
-`index.html`, `vercel.json`
+`index.html`, `vercel.json`, `og.png`, `favicon.svg`, `apple-touch-icon.png`
 
 ## Local development
 
